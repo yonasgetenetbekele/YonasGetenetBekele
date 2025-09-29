@@ -1,7 +1,7 @@
 #this is my typecasting exercise
 print('This is my second progrm')
 name = "Yonas"
-age = 18
+age = 18.5
 student = True 
 height = 1.80
 gpa = 4.0
@@ -24,5 +24,11 @@ print (type (student))
 print (student)
 
 age = bool(age)
-print = (type(age)
-         )
+print = (type(age))
+
+average = 89.97
+average = float(average)
+print (type(average))
+
+average = str(average)
+print (average)

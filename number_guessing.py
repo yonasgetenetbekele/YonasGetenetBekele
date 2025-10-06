@@ -1,4 +1,4 @@
-#This is the python number guessing program
+#This is the python random numbers exercise
 import random
 
 
